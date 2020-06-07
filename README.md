@@ -1,3 +1,3 @@
-# Potfolio
+# Portfolio
 
 My personal website
